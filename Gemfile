@@ -31,7 +31,7 @@ gem 'turbolinks', '~> 5'
 
 gem 'simple_form'
 gem 'cloudinary', '~> 1.9.1'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
